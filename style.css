@@ -1,0 +1,58 @@
+div.A{
+    background-color: green;
+    color: gold;
+    
+}
+
+.contacto{
+    color: red;
+    background-color: lightgreen;
+}
+
+button{
+    background-color: green;
+    color: gold;
+    margin-right: 2em;
+}
+
+input{
+    margin-bottom: 2em;
+}
+
+textarea{
+    margin-bottom: 2em;
+}
+form{
+    margin: 5em;
+}
+
+.formulario{
+    width: 30%;
+    text-align: center;
+display: inline!important;
+position: relative;
+}
+
+.volver{
+    color: aqua;
+}
+
+.imagenes{
+    display: inline!important;
+    width: 20%;
+}
+.contenedor{
+    text-align: center;
+}
+
+.texto{ color: green;
+    display: inline-block!important;
+    margin: 5em;
+vertical-align: top;}
+div.B{
+    display: inline!important;
+}
+form.C{
+    vertical-align: top;
+    color: green;
+}
